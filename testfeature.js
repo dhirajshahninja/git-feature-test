@@ -5,7 +5,7 @@ console.log('no conflict accures in jacva');
 
 console.log('Thanks sir');
 
-console.log('here i want to check in master conflict accures or not');
+console.log('here i want to (hello sir now i changes here some things)  check in master conflict accures or not');
 console.log('this is chanegs from master');
 
 console.log('changes by featuresnow chnages by master');
